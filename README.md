@@ -11,7 +11,7 @@ This project implements an audio quality scoring system that:
 - Achieves strong correlation between predicted and actual scores
 
 ## Model Architecture
-
+## Dataset Access : `https://drive.google.com/drive/folders/16bmXNOnh1RvYVWBkwXAysy4dcoVpiYe9?usp=sharing`
 ### Feature Extraction
 - **Model**: `facebook/wav2vec2-base-960h`
 - **Method**: Mean-pooled embeddings from last hidden state
